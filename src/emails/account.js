@@ -7,7 +7,7 @@ const sendWelcomeEmail=(email,name)=>{
         to:email,
         from:'udaykiran.7889@gmail.com',
         subject:'Thanks for Joining Us!',
-        text:`Welcome to the task-manager app,${name}. Let us know your experience.`
+        text:`Welcome to the task-manager app,${name}.`
 
     })
 }
@@ -17,7 +17,7 @@ const sendDeleteEmail=(email,name)=>{
         to:email,
         from:'udaykiran.7889@gmail.com',
         subject:'Good Bye.',
-        text:`Goodbye ${name},Please provide a feedback on our app and gope that uou specify a reason for leaving us`
+        text:`Hello ${name}, We just recieved your request to delete your account with our task manager app and please leave a feedback that how was your expreience with our app.`
     })
 }
 
