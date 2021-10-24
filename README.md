@@ -10,4 +10,3 @@ In this API user can make requests like create, update and delete the user and a
 
 
 
-##### Know more about API [Click Here](/Docs.md)
