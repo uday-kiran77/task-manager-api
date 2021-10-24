@@ -7,6 +7,3 @@ In this API user can make requests like create, update and delete the user and a
 - NodeJS
 - Express
 - MongoDB
-
-
-
