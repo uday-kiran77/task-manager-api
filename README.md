@@ -7,3 +7,4 @@ In this  REST API user can make requests like create, update and delete the user
 - NodeJS
 - Express
 - MongoDB
+- JWT (JSON Web Tokens)
